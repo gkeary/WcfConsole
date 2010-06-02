@@ -1,0 +1,6 @@
+C:\Users\gkeary\_lmwork\HandyPortal\my.main\WCFConsole\WCFConsole\bin\Debug\WCFConsole.exe.config
+C:\Users\gkeary\_lmwork\HandyPortal\my.main\WCFConsole\WCFConsole\bin\Debug\WCFConsole.exe
+C:\Users\gkeary\_lmwork\HandyPortal\my.main\WCFConsole\WCFConsole\bin\Debug\WCFConsole.pdb
+C:\Users\gkeary\_lmwork\HandyPortal\my.main\WCFConsole\WCFConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gkeary\_lmwork\HandyPortal\my.main\WCFConsole\WCFConsole\obj\x86\Debug\WCFConsole.exe
+C:\Users\gkeary\_lmwork\HandyPortal\my.main\WCFConsole\WCFConsole\obj\x86\Debug\WCFConsole.pdb
